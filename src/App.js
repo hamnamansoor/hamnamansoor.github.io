@@ -9,8 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         <br />
-          DevOps Lab Activity
-          2178
+         Changes by Hamna Mansoor
         </p>
         
         <a
